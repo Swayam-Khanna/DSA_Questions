@@ -2,7 +2,7 @@
 
 ## 📊 Visual Explanation
 
-![Visible People Diagram](images/visible-people-queue.png)
+![Visible People Diagram](visible-people-queue.png)
 
 ---
 
