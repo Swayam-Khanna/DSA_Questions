@@ -1,5 +1,7 @@
 import java.util.*;
 
+
+
 class Solution {
     public int[] canSeePersonsCount(int[] arr) {
         int n = arr.length;
@@ -31,4 +33,3 @@ class Solution {
         return ans;
     }
 }
-🧠 IntuitionMonotonic Stack: We process the array from right to left to maintain a stack of people whose visibility we are currently evaluating.Linear Efficiency: Since each person is pushed onto and popped from the stack exactly once, the time complexity remains $O(n)$.Space Complexity: $O(n)$ to store the stack.📌 TagsMonotonic Stack | Arrays | Stack | Greedy✍️ AuthorSwayam KhannaThird-year B.Tech in Computer Science and EngineeringChitkara University
